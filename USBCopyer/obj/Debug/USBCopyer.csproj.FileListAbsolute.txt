@@ -1,0 +1,44 @@
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\bin\Debug\USBCopyer.pdb
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csprojResolveAssemblyReference.cache
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Setting.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Properties.Resources.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csproj.GenerateResource.Cache
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.exe
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.pdb
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Host.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe.config
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe.config
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.exe
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.pdb
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.pdb
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csprojResolveAssemblyReference.cache
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Host.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Setting.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Properties.Resources.resources
+C:\Work Station\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csproj.GenerateResource.Cache
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe.config
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.exe
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.pdb
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.exe
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\bin\Debug\USBCopyer.pdb
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csprojResolveAssemblyReference.cache
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Host.resources
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Setting.resources
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.Properties.Resources.resources
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.csproj.GenerateResource.Cache
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.diskUUID.resources
+C:\Users\wmzhi\Desktop\OneDrive\C# Projects\USBCopyer\USBCopyer\obj\Debug\USBCopyer.donateForm.resources
+D:\code\USBCopyer-master\USBCopyer\bin\Debug\USBCopyer.exe.config
+D:\code\USBCopyer-master\USBCopyer\bin\Debug\USBCopyer.exe
+D:\code\USBCopyer-master\USBCopyer\bin\Debug\USBCopyer.pdb
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.csprojResolveAssemblyReference.cache
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.diskUUID.resources
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.donateForm.resources
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.Host.resources
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.Setting.resources
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.Properties.Resources.resources
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.csproj.GenerateResource.Cache
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.exe
+D:\code\USBCopyer-master\USBCopyer\obj\Debug\USBCopyer.pdb
